@@ -5,18 +5,22 @@
 # -----------------
 # Task 1 Answer
 # -----------------
+mv ~/cs193lab2/purdue classes/math/maa162 ma162
 
 # -----------------
 # Task 2 Answer
 # -----------------
+rm ~/cs193lab2/purdue classes/math/pol341
 
 # -----------------
 # Task 3 Answer
 # -----------------
+mv ~/cs193lab2/'purdue classes'/'computer science'/ma261 /homes/yang1556/cs193lab2/'purdue classes'/math
 
 # -----------------
 # Task 4 Answer
 # -----------------
+mkdir -p 'purdue professors'/'computer science professors'
 
 # -----------------
 # Task 5 Answer
