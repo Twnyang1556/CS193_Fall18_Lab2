@@ -20,13 +20,14 @@ mv ~/cs193lab2/'purdue classes'/'computer science'/ma261 /homes/yang1556/cs193la
 # -----------------
 # Task 4 Answer
 # -----------------
-mkdir -p 'purdue professors'/'computer science professors'
+mkdir -p ~/cs193lab2/'purdue professors'/'computer science professors'
 
 # -----------------
 # Task 5 Answer
 # -----------------
+mv ~/cs193lab2/'purdue buildings'/Professor* ~/cs193lab2/'purdue professors'/'computer science professors'
 
 # -----------------
 # Task 6 Answer
 # ----------------
-
+ls -R cs193lab2
