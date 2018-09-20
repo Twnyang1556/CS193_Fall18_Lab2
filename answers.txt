@@ -5,12 +5,12 @@
 # -----------------
 # Task 1 Answer
 # -----------------
-mv ~/cs193lab2/purdue classes/math/maa162 ma162
+mv ~/cs193lab2/'purdue classes'/math/'maa162' ~/cs193lab2/'purdue classes'/math/ma162
 
 # -----------------
 # Task 2 Answer
 # -----------------
-rm ~/cs193lab2/purdue classes/math/pol341
+rm ~/cs193lab2/'purdue classes'/math/pol341
 
 # -----------------
 # Task 3 Answer
@@ -30,4 +30,4 @@ mv ~/cs193lab2/'purdue buildings'/Professor* ~/cs193lab2/'purdue professors'/'co
 # -----------------
 # Task 6 Answer
 # ----------------
-ls -R cs193lab2
+ls -R ~/cs193lab2
